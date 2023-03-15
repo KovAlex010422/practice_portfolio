@@ -5,6 +5,13 @@
 }
 
 body {
-    background: url("../img/heade_bg.webp") center center / auto no-repeat;
-    
+    margin: 0 auto;
+    width: 1920px;  
+    color: blanchedalmond;
 }
+.container {
+    margin: 0 auto;
+    width: 1140px;
+}
+
+@import './blocks/header'
